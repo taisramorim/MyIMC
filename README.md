@@ -1,6 +1,6 @@
-# myimc
+# MyIMC
 
-A new Flutter project.
+Aprimorando minhas habilidades.
 
 ## Getting Started
 
